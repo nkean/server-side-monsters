@@ -1,0 +1,24 @@
+{
+  "name": "server-side-monsters",
+  "version": "1.0.0",
+  "description": "server side monsters homework",
+  "main": "server/server.js",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkean/server-side-monsters.git"
+  },
+  "author": "Nathan Kean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nkean/server-side-monsters/issues"
+  },
+  "homepage": "https://github.com/nkean/server-side-monsters#readme"
+}
