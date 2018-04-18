@@ -7,3 +7,7 @@ h1 {
     color: orange;
     text-shadow: 1.5px -1px slategray;
 }
+
+ul {
+    color: black;
+}
