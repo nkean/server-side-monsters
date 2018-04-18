@@ -1,3 +1,9 @@
 body {
-    background-color: orange;
+    background-color: purple;
+    font-family: 'Menlo', sans-serif;
+}
+
+h1 {
+    color: orange;
+    text-shadow: 1.5px -1px slategray;
 }
